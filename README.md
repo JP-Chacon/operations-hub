@@ -3,11 +3,20 @@
 Dashboard operacional para gestão de operações financeiras. O projeto foca em regras de negócio claras e uma experiência de uso profissional, com feedbacks visuais e controles de estado no frontend. **Não é um sistema de pagamento real** — o objetivo é demonstrar engenharia de software e UX em um cenário corporativo.
 
 ## Preview do sistema
-- Tela de login dedicada
-- Dashboard com KPIs e tabela
-- Filtros por status e valor mínimo
-- Criação de operação com máscara BRL
-- Feedbacks visuais (toast, loading, skeleton, animações leves)
+## Screenshots do sistema
+
+### Tela de login
+![Tela de login](./operations-hub-web/screenshots/login.png)
+
+### Dashboard – Visão geral
+![Dashboard overview](./operations-hub-web/screenshots/dashboard-overview.png)
+
+### Operações
+![Lista de operações](./operations-hub-web/screenshots/dashboard-operacoes.png)
+
+### Criação de operação
+![Criar operação](./operations-hub-web/screenshots/criar-operacao.png)
+
 
 ## Stack utilizada
 - **Frontend:** React + TypeScript
