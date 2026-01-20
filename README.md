@@ -6,7 +6,7 @@ Dashboard operacional para gestão de operações financeiras. O projeto foca em
 ## Screenshots do sistema
 
 ### Tela de login
-![Tela de login](./operations-hub-web/screenshots/login.png)
+![Tela de login](./operations-hub-web/screenshots/login.PNG)
 
 ### Dashboard – Visão geral
 ![Dashboard overview](./operations-hub-web/screenshots/dashboard-overview.png)
