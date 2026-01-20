@@ -1,0 +1,17 @@
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Infrastructure.deps.json
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Infrastructure.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Infrastructure.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Application.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Domain.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Application.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\bin\Debug\net8.0\OperationsHub.Domain.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.AssemblyInfo.cs
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\Operatio.81D7D77D.Up2Date
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\refint\OperationsHub.Infrastructure.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\OperationsHub.Infrastructure.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Infrastructure\obj\Debug\net8.0\ref\OperationsHub.Infrastructure.dll

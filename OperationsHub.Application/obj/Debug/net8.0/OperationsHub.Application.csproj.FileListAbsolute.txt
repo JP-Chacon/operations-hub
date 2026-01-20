@@ -1,0 +1,15 @@
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\bin\Debug\net8.0\OperationsHub.Application.deps.json
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\bin\Debug\net8.0\OperationsHub.Application.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\bin\Debug\net8.0\OperationsHub.Application.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\bin\Debug\net8.0\OperationsHub.Domain.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\bin\Debug\net8.0\OperationsHub.Domain.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.csproj.AssemblyReference.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.AssemblyInfoInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.AssemblyInfo.cs
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\Operatio.814B264D.Up2Date
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\refint\OperationsHub.Application.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\OperationsHub.Application.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Application\obj\Debug\net8.0\ref\OperationsHub.Application.dll

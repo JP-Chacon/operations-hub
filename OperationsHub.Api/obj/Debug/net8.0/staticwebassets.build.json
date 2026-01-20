@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bGz0xvHBvx8mGm7lcSrthrnnCWxScTtYfSx5rEIdOjo=",
+  "Source": "OperationsHub.Api",
+  "BasePath": "_content/OperationsHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

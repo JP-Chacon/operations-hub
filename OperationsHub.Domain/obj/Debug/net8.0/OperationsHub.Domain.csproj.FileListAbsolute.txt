@@ -1,0 +1,11 @@
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\bin\Debug\net8.0\OperationsHub.Domain.deps.json
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\bin\Debug\net8.0\OperationsHub.Domain.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\bin\Debug\net8.0\OperationsHub.Domain.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.AssemblyInfoInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.AssemblyInfo.cs
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\refint\OperationsHub.Domain.dll
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\OperationsHub.Domain.pdb
+C:\Users\Joao Pedro\Desktop\operations-hub\OperationsHub.Domain\obj\Debug\net8.0\ref\OperationsHub.Domain.dll
